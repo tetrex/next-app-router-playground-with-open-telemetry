@@ -19,6 +19,11 @@
   },
   "dependencies": {
     "@heroicons/react": "2.1.3",
+    "@opentelemetry/auto-instrumentations-node": "0.47.1",
+    "@opentelemetry/exporter-trace-otlp-http": "0.52.1",
+    "@opentelemetry/resources": "1.25.1",
+    "@opentelemetry/sdk-node": "0.52.1",
+    "@opentelemetry/semantic-conventions": "1.25.1",
     "clsx": "2.1.1",
     "date-fns": "3.6.0",
     "dinero.js": "2.0.0-alpha.10",
